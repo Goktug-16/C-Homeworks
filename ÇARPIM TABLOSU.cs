@@ -6,7 +6,7 @@
         {
             try
             {
-                Console.Write("Lütfen bir sayı girin:");
+                Console.Write("Bir sayı giriniz:");
                 int sayi = int.Parse(Console.ReadLine());
 
                 for (int i = 1; i <= 10; i++)
